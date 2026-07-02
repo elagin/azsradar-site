@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "versionCode": 1,
+  "apk": "apk/latest.apk",
+  "publishedAt": "2026-07-02T18:20:00Z",
+  "changes": [
+    "Первая версия"
+  ]
+}

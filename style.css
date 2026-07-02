@@ -1,1 +1,4 @@
 .container{max-width:640px;margin:auto;padding:24px;font-family:system-ui,sans-serif}.logo{display:block;width:140px;height:140px;object-fit:contain;margin:0 auto 16px}body{margin:0;background:#f4f6f8}.subtitle{text-align:center;color:#666}h1{text-align:center}.button{display:block;background:#22a143;color:#fff;text-decoration:none;text-align:center;padding:14px;border-radius:8px;margin:24px 0}.card{background:#fff;padding:16px;margin:16px 0;border-radius:10px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+
+.card h2{margin:0 0 10px;font-size:1.5rem}
+.card p:first-of-type,.card a:first-of-type{margin-top:0}
