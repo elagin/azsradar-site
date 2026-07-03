@@ -5,7 +5,7 @@
   "apkUrl": "https://github.com/elagin/azsradar-site/releases/latest/download/azsradar.apk",
   "releasePageUrl": "https://github.com/elagin/azsradar-site/releases/latest",
   "required": true,
-  "publishedAt": "2026-07-03T12:00:00Z",
+  "publishedAt": "2026-07-03T13:00:00Z",
   "changes": [
     "Улучшение работы при плохой связи",
     "Добавлены уведомления о наличии обновлений"
