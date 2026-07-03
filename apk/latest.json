@@ -2,8 +2,13 @@
   "version": "0.1.0",
   "versionCode": 1,
   "apk": "apk/latest.apk",
+  "apkUrl": "https://github.com/elagin/azsradar-site/releases/latest/download/azsradar.apk",
+  "releasePageUrl": "https://github.com/elagin/azsradar-site/releases/latest",
+  "required": false,
   "publishedAt": "2026-07-02T18:20:00Z",
   "changes": [
-    "Первая версия"
+    "Первый публичный релиз",
+    "Добавлена карта АЗС",
+    "Добавлена отправка наблюдений по ценам"
   ]
 }
